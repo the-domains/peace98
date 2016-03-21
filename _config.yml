@@ -1,0 +1,28 @@
+name: Peace98
+favicon: null
+layout_spectrum: 0.5244566334877163
+typography_spectrum: 0.8426444213837385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8733085568528622
+  lightness: 0.9439422748982906
+  saturation: 0.464190396014601
+  rhythmicContrast: 0.5625278721563518
+purpose: []
